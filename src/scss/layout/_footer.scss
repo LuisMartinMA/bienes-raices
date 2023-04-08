@@ -1,8 +1,14 @@
 .footer{
      background-color: $grisOscuro;
+     margin-bottom: 0;
+
  
  .contenedor-footer{
     padding-top: 2rem;
+ }
+ .navegacion{
+    visibility: visible;
+    opacity: 1;
  }
 
 .copyright{
